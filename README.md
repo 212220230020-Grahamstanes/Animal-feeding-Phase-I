@@ -32,7 +32,7 @@ Select all three animals in the hierarchy and Add Component > Drag the Move Forw
 ### Step 6:
 Edit their speed values and test to see how it looks. Drag all three animals into the Prefabs folder, choosing “Original Prefab”
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ## Program:
 ### PLAYER CONTROLLER:
